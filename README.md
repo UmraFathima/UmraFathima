@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @UmraFathima
-- 👀 I’m interested in Python,Machine Learning,Frontend Design
+- Portfolio - https://courageous-kheer-429cb9.netlify.app/
+- 👀 I’m interested in Python,Javascript Software Developer AI/ML
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Industry Projects
 - 📫 How to reach me gmail umrafathima169@gmail.com
