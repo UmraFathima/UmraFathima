@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UmraFathima
-- 👀 I’m interested in Python,Javascript Software Developer AI/ML
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Software Developer AI/ML Data Science
+- 🌱 I’m currently learning Advance SQL
 - 💞️ I’m looking to collaborate on Industry Projects
 - 📫 How to reach me gmail umrafathima169@gmail.com
 - 😄 Pronouns: She/her
